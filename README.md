@@ -24,6 +24,7 @@
             alert("♥ ❤ ❥ ♡ დ ❥  ♡聖誕節要到了 ღ ❣ ❦ ❧ ❤  ");
             alert("❤❤❤你想不想❤❤❤");
             alert("ღ ❣ ❦ ღ ❣ ❦ 交換禮物ღ ❣ ❦ ღ ❣ ❦ ")
+            alert("HELLO")
             console.log("Hello");
 <!--             console.log("Hello");
             console.log("Hello"); -->
