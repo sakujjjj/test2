@@ -27,7 +27,7 @@
             alert("HELLO")
             console.log("Hello");
             console.log("Hello");
-<!--             console.log("Hello"); -->
+            console.log("Hello");
         </script>
     </head>
     <body bgcolor="003E3E">
