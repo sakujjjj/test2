@@ -20,10 +20,10 @@
             }
         </style>
         <script>
-            alert("Hello 趙芸❤");
+<!--             alert("Hello 趙芸❤");
             alert("♥ ❤ ❥ ♡ დ ❥  ♡聖誕節要到了 ღ ❣ ❦ ❧ ❤  ");
             alert("❤❤❤你想不想❤❤❤");
-            alert("ღ ❣ ❦ ღ ❣ ❦ 交換禮物ღ ❣ ❦ ღ ❣ ❦ ")
+            alert("ღ ❣ ❦ ღ ❣ ❦ 交換禮物ღ ❣ ❦ ღ ❣ ❦ ") -->
 <!--             console.log("Hello"); -->
 <!--             console.log("Hello"); -->
 <!--             console.log("Hello"); -->
