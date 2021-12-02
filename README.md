@@ -26,8 +26,8 @@
             alert("ღ ❣ ❦ ღ ❣ ❦ 交換禮物ღ ❣ ❦ ღ ❣ ❦ ")
             alert("HELLO")
             console.log("Hello");
-<!--             console.log("Hello");
-            console.log("Hello"); -->
+            console.log("Hello");
+<!--             console.log("Hello"); -->
         </script>
     </head>
     <body bgcolor="003E3E">
