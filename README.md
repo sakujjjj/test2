@@ -2,6 +2,9 @@
     <head>
         <meta charset="UTF-8">
         <style>
+            body {
+  background-color: #003E3E;
+}
             #i1{color: blanchedalmond;
             background-color: coral;
         }
@@ -9,14 +12,15 @@
         .c1{color: white;}
             h1{
                 color: rgb(35, 134, 101);
-                background-color: rgb(221, 221, 26);
+                background-color: rgb(0, 195, 255);
             }
             h2{
                 color: rgb(232, 245, 50);
                 background-color: rgb(0, 195, 255);
             }
             h3{
-                background-color:rgba(156, 30, 156, 0.623)
+                color: rgb(0,0,0);
+                background-color:rgba(0, 195, 255)
             }
         </style>
         <script>
