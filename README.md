@@ -24,10 +24,10 @@
             }
         </style>
         <script>
-            alert("Hello 趙芸❤");
-            alert("♥ ❤ ❥ ♡ დ ❥  ♡聖誕節要到了 ღ ❣ ❦ ❧ ❤  ");
-            alert("❤❤❤你想不想❤❤❤");
-            alert("ღ ❣ ❦ ღ ❣ ❦ 交換禮物ღ ❣ ❦ ღ ❣ ❦ ")
+            alert("Hello ❤");
+            alert("♥ ❤ ❥ ♡ დ ❥  ♡ ღ ❣ ❦ ❧ ❤  ");
+            alert("❤❤❤❤❤❤");
+            alert("ღ ❣ ❦ ღ ❣ ❦ ღ ❣ ❦ ღ ❣ ❦ ")
             alert("HELLO")
             console.log("Hello");
             console.log("Hello");
@@ -36,9 +36,9 @@
     </head>
     <body bgcolor="003E3E">
         <a href = "https://drive.google.com/file/d/1YPKua1S76wRi-Mq9BBC1PFdg3BzMMugt/view?usp=sharing">連結</a>
-        <h1 id="i1">♥ ❤ ❥ ♡ დ ღ ❣趙芸 ❦ ❧ ❤  ღ  ❥  ♡</h1>
-        <h1 id="i2">♥ ❤ ❥ ♡ დ ❥  ♡聖誕節要到了 ღ ❣ ❦ ❧ ❤  ღ </h1>
-        <h2 class="c1">♥ ❤ ❥要不要 ღ ❣ ❦ ❧ ❤  ღ </h2>
+        <h1 id="i1">♥ ❤ ❥ ♡ დ ღ ❣ ❦ ❧ ❤  ღ  ❥  ♡</h1>
+        <h1 id="i2">♥ ❤ ❥ ♡ დ ❥  ♡ღ ❣ ❦ ❧ ❤  ღ </h1>
+        <h2 class="c1">♥ ❤ ❥ღ ❣ ❦ ❧ ❤  ღ </h2>
         <h3 class="c1">♥ ❤ ❥ ♡❥  ♡ ღ ❣ ❦ ❧ ❤  ღ </h3>
         <img src="https://i2.momoshop.com.tw/1619285952/goodsimg/0008/257/892/8257892_R.webp">
       
